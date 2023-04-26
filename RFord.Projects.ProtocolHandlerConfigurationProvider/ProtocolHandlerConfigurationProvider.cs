@@ -126,8 +126,6 @@ namespace RFord.Projects.ProtocolHandlerConfigurationProvider
             //      .GetValues("foxtrot") => "golf"
             //  so just &test& is a 'null' key with a 'test' value
 
-            //var parsed = HttpUtility.ParseQueryString(parsedSource.Query);
-
             Data = _parts;
         }
 
